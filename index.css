@@ -1,15 +1,19 @@
 button {
   background-color: green;
   color: white;
+  width: 200px;
+  border-radius: 15%;
 }
 
 h2 {
-  color: blue;
-  background-color: aqua;
+  color: white;
+  background-color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 #Title {
   color: darkgreen;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .Price {
@@ -17,7 +21,7 @@ h2 {
 }
 
 body {
-  background-color: lightblue;
+  background-color: lightgrey;
 }
 
 .cross {
@@ -25,8 +29,13 @@ body {
 }
 
 p {
-  width: 400px;
-  border: 10px solid darkslategrey;
-  padding: 10px;
-  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+  background-color: white;
+  border: 20px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10%;
 }
