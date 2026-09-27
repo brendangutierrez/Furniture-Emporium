@@ -1,0 +1,32 @@
+button {
+  background-color: green;
+  color: white;
+}
+
+h2 {
+  color: blue;
+  background-color: aqua;
+}
+
+#Title {
+  color: darkgreen;
+}
+
+.Price {
+  font-style: oblique;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.cross {
+  color: red;
+}
+
+p {
+  width: 400px;
+  border: 10px solid darkslategrey;
+  padding: 10px;
+  margin: 10px;
+}
